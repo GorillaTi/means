@@ -1,0 +1,68 @@
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+.DS_Store
+*.swp
+*.tmp
+# Descarta archivos de compilación
+*.o
+*.a
+*.so
+*.dll
+
+# Descarta archivos de caché
+npm-cache
+node_modules
+
+# Descarta archivos de configuración local
+.env
+.env.*
+
+# Descarta archivos de respaldo
+*.bak
+*.old
+
+# Descarta archivos generados por IDEs
+.idea
+*.iml
+
+# Descarta archivos de logs
+logs
