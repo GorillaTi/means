@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 800 800"
+   style="enable-background:new 0 0 800 800;"
+   xml:space="preserve"
+   sodipodi:docname="ansible-colored-dark.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="1.04875"
+   inkscape:cx="400.47676"
+   inkscape:cy="400"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   inkscape:window-x="1920"
+   inkscape:window-y="40"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#6f7580;}
+</style>
+
+<path
+   d="M 354.82474,382.95322 507.89143,502.47479 406.5656,254.6333 Z M 400,11.837905 C 183.46583,11.837905 8.0238399,185.57279 8.0238399,400 8.0238399,614.42722 183.46583,788.1621 400,788.1621 616.53415,788.1621 791.97616,614.42722 791.97616,400 791.97616,185.57279 616.53415,11.837904 400,11.837905 Z M 589.35716,571.60001 c -0.35932,15.23535 -13.16388,27.23603 -28.5816,26.84786 -7.70887,0 -13.58852,-2.9112 -21.68935,-9.47761 L 336.89183,427.23604 268.98197,595.53667 h -58.7311 L 381.64244,187.80472 c 4.05044,-10.15691 13.94782,-16.82036 24.95583,-16.3675 10.64867,-0.45286 20.57875,6.11356 24.23718,16.3675 l 155.94119,371.7946 c 1.46991,3.59049 2.61318,7.56915 2.61318,11.25669 -0.0327,0.29113 -0.0327,0.29113 -0.0327,0.744 z"
+   id="path1"
+   style="stroke-width:32.505;stroke-dasharray:none;fill:#ffffff" /></svg>
